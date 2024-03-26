@@ -1,2 +1,0 @@
-#remove
-print(counts)
